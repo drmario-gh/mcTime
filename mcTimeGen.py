@@ -8,7 +8,9 @@ Genetic algorithm to build a timetable
 import numpy as np
 import matplotlib.pyplot as plt
 
-
+#----------------------------
+# INPUT 
+#Times (in hours)
 minDurationShift = 4 * 2
 maxDurationShift = 8 * 2
 minDurationPartShift = 4 * 2
